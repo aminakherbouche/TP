@@ -1,0 +1,13 @@
+#I need the solution of theses questions
+
+echo " Affichez les permissions du répertoire de votre voisin pour comprendre pourquoi vous ne pouviez pas yaccéder.
+ Copiez le fichier hosts dans le fichier hosts.bis.
+ Modifiez les protections de votre fichier hosts pour que vous, propriétaire du fichier, puissiez le lire mais pas l’effacer.
+ Essayez de l’effacer.
+ Modifiez les protections de votre fichier hosts.bis pour que les utilisateurs de votre groupe puissent le lire et le détruire.
+ listez les fichiers en format long dans l’ordre inverse de l’ordre alphabétique
+ listez les fichiers du plus ancien au plus récent en format long ;
+ Copiez le fichier /etc/hosts dans le répertoire $HOME que vous désignerez par son chemin absolu.
+ Copiez le fichier hosts depuis votre répertoire racine vers le répertoire courant ($HOME/Unix/TP1) en utilisant cette fois des chemins relatifs. Détruisez le fichier $HOME/hosts.
+ Créez un fichier de nom -i, et essayez de l’effacer.
+ Listez tous les fichiers dont le nom :commence par n et finit par e ;contient exactement quatre caractères quelconques"
